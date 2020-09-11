@@ -1,0 +1,15 @@
+.main-display-container {
+    display: block;
+}
+
+.all-friends-container {
+    display: grid;
+    grid-template-columns: 100px 200px ;
+    grid-column-gap: 100px;
+    margin-left: 30%;
+    margin-top: 50px;
+}
+
+.total-friends{
+    margin-right: 1200px;
+}

@@ -1,0 +1,10 @@
+.main-container{
+    display: block;
+}
+
+.elemant-container {
+    display: grid;
+    grid-template-columns: 1fr 250px 100px 100px;
+    margin-top: 50px;
+    grid-column-gap: 10px;
+}

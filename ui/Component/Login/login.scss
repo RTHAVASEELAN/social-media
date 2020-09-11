@@ -1,0 +1,14 @@
+.form-root {
+    width: 450px;
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    padding: 50px;
+    margin: 50%, 50%;
+
+    .username {
+        margin-bottom: 20px;
+    }
+
+    .action-bar {
+        margin-top: 20px;
+    }
+}

@@ -1,0 +1,29 @@
+.main-container {
+    display: block;
+}
+
+.map-container {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 200px, 200px, 200px;
+    grid-column-gap: 10px;
+}
+
+.btn-conntainer {
+    display: grid;
+    grid-template-columns: 100px 100px 200px;
+    grid-column-gap: 100px;
+margin-top: 100px;
+    .like-btn{
+        margin-left: 200px;
+        width: 100px;
+    }
+    .share-btn{
+        margin-left: 200px;
+        width: 100px;
+    }
+    .command-btn{
+        margin-left: 200px;
+        width: 100px;
+    }
+}
